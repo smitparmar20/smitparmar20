@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Smit Parmar 👋
 
-<!--
-**smitparmar20/smitparmar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate developer interested in full-stack development.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [My Portfolio Website](https://github.com/smitparmar20/portfolio)
+- [Dental Care Website](https://github.com/smitparmar20/Dental-care)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smitparmar20&show_icons=true)
+
+
+
