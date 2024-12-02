@@ -30,21 +30,21 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=smitparmar20@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<!-- <a href="https://www.instagram.com/smit_parmar/" target="_blank">
+<a href="https://www.instagram.com/smit_parmar/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=smit_parmar Instagram style="margin-bottom: 5px;" />
-</a> -->
+</a> 
 </div>
 
 <!--Languages and Tools Section-->       
 <h2 align="start">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="start">
-<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongo,git,vscode,postman,figma"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongo,git,github,vscode,postman,figma"  />
 </p>
 <br />
 
-### 🌟 **Highlighted Projects**
+<!-- ### 🌟 **Highlighted Projects**
 - **[Portfolio Website](your-portfolio-link)** - A modern, responsive portfolio showcasing my work.
-- **Carousel Design** - A responsive image carousel with overlay text, built with **HTML, CSS, and JavaScript**.
+- **Carousel Design** - A responsive image carousel with overlay text, built with **HTML, CSS, and JavaScript**. -->
 ---
 
 ### 🎯 **Goals**
